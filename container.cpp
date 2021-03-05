@@ -1,4 +1,9 @@
 /*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
+/*
 
 Programa em C++ que implementa um caontainer e guarda 3 tipos de dados:
 int, float e string.
